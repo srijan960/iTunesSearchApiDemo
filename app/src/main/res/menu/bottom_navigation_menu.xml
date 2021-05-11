@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/searchSongFragment"
+        android:title="Search Song"
+        android:icon="@drawable/ic_baseline_music_note_24"/>
+    <item
+        android:id="@+id/savedSongFragment"
+        android:title="Saved Songs"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+
+</menu>
